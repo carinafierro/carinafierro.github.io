@@ -1,1 +1,23 @@
 
+a:hover, li:hover {
+    color: rgb(211, 30, 228);
+}
+
+@font-face {
+    font-family: Header;
+    src: url('fonts/Licorice.ttf');
+  }
+
+* {
+    font-family: calibri;
+}
+
+h1 {
+    font-family: Header;
+    text-align: center;
+    font-size: 40px;
+}
+
+img {
+
+}
