@@ -8,21 +8,26 @@ a:hover, li:hover {
     src: url('fonts/Licorice.ttf');
   }
 
-* {
-    font-family: calibri;
-}
-
 h1 {
     font-family: Header;
     text-align: center;
     font-size: 40px;
 }
 
-p {
-    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+h2 {
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center;
 }
 
 img {
     border-radius: 20px;
     opacity: 0.9;
+}
+
+p, li {
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
+h3 {
+    text-align: center;
 }
