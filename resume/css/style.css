@@ -13,3 +13,6 @@ img {
     float: center;
 }
 
+nav:hover {
+    color: pink;
+}
