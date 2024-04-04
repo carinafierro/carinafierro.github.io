@@ -10,5 +10,10 @@ h1 {
 
 img {
     width: 10vw;
+    float: center;
+}
+
+nav {
+    float: right;
 }
 
