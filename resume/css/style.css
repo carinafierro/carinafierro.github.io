@@ -2,21 +2,11 @@
     color: magenta;
 }
 
-@font-face {
-    font-family: title;
-    src: url('resume/fonts/Licorice.ttf');
-  }
-
-@font-face {
-    font-family: paragraph;
-    src: url('resume/fonts/OpenSans.ttf');
-  }
-
 h1 {
     color: purple;
     font-size: 3vw;
     text-align: center;
-    font-family: title;
+    font-family: lucida handwriting;
 }
 
 img {
@@ -25,7 +15,7 @@ img {
 }
 
 p, li {
-    font-family: paragraph;
+    font-family: courier new;
 }
 
 nav, h2 {
