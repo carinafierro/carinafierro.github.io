@@ -13,7 +13,7 @@ img {
     float: center;
 }
 
-p {
+p, li {
     font-family: courier new;
 }
 
