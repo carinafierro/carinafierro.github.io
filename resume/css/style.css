@@ -2,11 +2,16 @@
     color: magenta;
 }
 
+@font-face {
+    font-family: title;
+    src: url('fonts/Licorice.ttf');
+  }
+
 h1 {
     color: purple;
     font-size: 3vw;
     text-align: center;
-    font-family: lucida handwriting;
+    font-family: title;
 }
 
 img {
