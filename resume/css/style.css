@@ -4,12 +4,12 @@
 
 @font-face {
     font-family: title;
-    src: url('fonts/Licorice.ttf');
+    src: url('css/fonts/Licorice.ttf');
   }
 
 @font-face {
     font-family: paragraph;
-    src: url('fonts/OpenSans.ttf');
+    src: url('css/fonts/OpenSans.ttf');
   }
 
 h1 {
