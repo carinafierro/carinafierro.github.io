@@ -1,5 +1,5 @@
 
-a:hover, li:hover {
+a:hover, li:hover, img:hover {
     color: rgb(211, 30, 228);
 }
 
@@ -20,8 +20,11 @@ h2 {
 }
 
 img {
-    border-radius: 20px;
+    border-radius: 30%;
     opacity: 0.9;
+    object-position: 15% 100%;
+    text-align: center;
+
 }
 
 p, li {
@@ -30,5 +33,9 @@ p, li {
 
 h3 {
     text-align: center;
+}
+
+h1 {
+    color: gray
 }
 
